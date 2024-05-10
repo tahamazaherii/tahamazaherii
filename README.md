@@ -5,16 +5,17 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/tahamazaheri/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.instagram.com/mr_taha_mazaheri/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-
+</p>
 ## My expertise
 
-<p>
+<p  align="center">
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
